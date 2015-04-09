@@ -1,0 +1,196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ryan/Documents/Work/kelly"
+	],
+	"file_history":
+	[
+		"/home/ryan/Documents/Work/bids.p212121.com/config/config.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/.gitignore",
+		"/home/ryan/Documents/Work/bids.p212121.com/php/en.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/template.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/php/init.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/index.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/config/config.example.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/php/classes/Login.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/views/server/index.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/views/server/template.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/views/server/bids.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/edit.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/js/init.js",
+		"/home/ryan/Documents/Work/bids.p212121.com/classes/Registration.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/password_demo.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/bids.sublime-project",
+		"/home/ryan/Documents/Work/bids.p212121.com/php/PHPMailer.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/php/class.smtp.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/translations/ca_ES",
+		"/home/ryan/Documents/Work/bids.p212121.com/password_reset.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/admin.php",
+		"/home/ryan/Documents/Work/bids.p212121.com/init.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/ryan/Documents/Work/bids.p212121.com"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user_name",
+			"includes/",
+			"font/",
+			"smtp.php",
+			"smtp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

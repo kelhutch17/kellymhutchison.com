@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.splashkitten {
+	background: url('http://i.imgur.com/BCzbz.jpg') no-repeat center fixed;	
+	background-size: cover;
+}
+
+.splashkitten .splashtext {
+	background:rgba(255,255,255,0.8);
+	border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	-webkit-border-radius: 10px; 
+}
+
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	
+	background: url('/img/eight_horns.png') repeat scroll;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+
+
+
+
+
