@@ -74,7 +74,7 @@
 						<li><a href="http://www.thon.org">Penn State Dance Marathon</a> </li>
 					</strong>
 						<ul>
-							<li><a href="http://www.thon.org/Students/GetInvolved/BeCaptain/Technology">Technology Captain</a> - THINK Developer (2014-2015)</li>
+							<li><a href="http://www.thon.org/Students/GetInvolved/ApplyToBeACaptain">Technology Captain</a> - THINK Developer (2014-2015)</li>
 							<li> Operations Committee Member (2013-2014) </li>
 							<li> Rules and Regulations Committee Member (2011-2012) </li>
 						</ul>
