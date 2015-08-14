@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
 	<?php include("includes/header.includes.php"); ?>
 	<title>Kelly M. Hutchison</title>
@@ -27,6 +28,7 @@
 					<li><a href="https://www.linkedin.com/in/kelhutch17" class="linkedin">Linkedin<span></span></a></li>
 					<li><a href="https://twitter.com/kelhutch17" class="twitter">Twitter</a></li>
 					<li><a href="https://www.facebook.com/kelhutch17" class="facebook">Facebook<span></span></a></li>
+					<li><a href="https://instagram.com/kelhutch17" class="instagram">Instagram</a></li>
 				</ul>
 			</div>
 
@@ -36,49 +38,58 @@
 					<br>
 					<h2>Experience</h2>
 					<p><strong>Internships, Co-ops, and Jobs</strong><br>
-					<ul>
-					<li><strong>Rockwell Automation</strong>, Software Engineering Co-op (January 2013-August 2013)</li>
-					<li><strong>Rockwell Automation</strong>, Software Engineering Intern (May 2014-August 2014)</li>
-					<li><strong><a href="http://www.p212121.com">P212121</a></strong>, Software Developer </li>
-					<li><strong><a href="http://www.karat.io"> Karat </a></strong>, Technical Consultant </li>
-					</ul>
+						<ul>
+							<li><strong><a href="http://www.intuit.com">Intuit</a></strong>, iOS Software Developer Intern (May 2015-August 2015)</li>
+							<li><strong><a href="http://www.karat.io"> Karat </a></strong>, Technical Consultant, Interviewer Network Manager, Operations Account Manager (January 2015-present)</li>
+							<li><strong><a href="http://www.rockwellautomation.com/"> Rockwell Automation </a></strong>, Software Engineering Co-op (January 2013-August 2013)</li>
+							<li><strong>Rockwell Automation</strong>, Software Engineering Intern (May 2014-August 2014)</li>
+							<li><strong><a href="http://www.p212121.com">P212121</a></strong>, Software Developer </li>
+						</ul>
 					</p>
 
 				</div>
 				<div class="col-md-12">
 					<h2>Projects</h2>
 					<p>
-					<ul>
-						<li><strong><a href="https://github.com/kelhutch17/PictaPhone">PictaPhone</a></strong>, an iPhone application written in Obj C</li>
-						<li><strong><a href="https://github.com/kelhutch17/Drinkr">Drinkr</a></strong>, a webapp to track your BAC</li>
-						<li><strong>Raffle Tracking System, Penn State Dance Marathon</strong>
-							<ul>
-								<li>Transformed a manual ticket sales system into a web interface to track ticket sales</li>
-								<li>Created an automated raffle system to pick a winning ticket based on custom criteria</li>
-								<li>Created system using PHP, MySQL, and JavaScript</li>
-							</ul>
-						</li>
-						<li><strong>SMSA Device Driver</strong> written in C</li>
-						<li><strong>Custom Implementation of Malloc and Free</strong> in C</li>
-						<li><strong>AOPLister</strong>, a C# console application using the .NET framework</li>
-					</ul>
+						<ul>
+							<li><strong>GoPayment - Transaction Receipt Refresh</strong></li>
+								<ul>
+									<li>GoPayment is an application produced by Intuit</li>
+									<li>Refreshed receipt view controller by following new design specs</li>
+									<li>Created new stroyboards for the page and new logic view controllers written in Objective C</li>
+								</ul>
+							<li><strong><a href="https://github.com/kelhutch17/PictaPhone">PictaPhone</a></strong>, an iPhone application written in Obj C</li>
+							<li><strong><a href="https://github.com/kelhutch17/Drinkr">Drinkr</a></strong>, a webapp to track your BAC</li>
+							<li><strong>Raffle Tracking System, Penn State Dance Marathon</strong>
+								<ul>
+									<li>Transformed a manual ticket sales system into a web interface to track ticket sales</li>
+									<li>Created an automated raffle system to pick a winning ticket based on custom criteria</li>
+									<li>Created system using PHP, MySQL, and JavaScript</li>
+								</ul>
+							</li>
+							<li><strong>SMSA Device Driver</strong> written in C</li>
+							<li><strong>Custom Implementation of Malloc and Free</strong> in C</li>
+							<li><strong>AOPLister</strong>, a C# console application using the .NET framework</li>
+						</ul>
 					</p>
 				</div>
 				<div class="col-md-12">
 					<h2>Leadership &amp; Activities</h2>
 					<p>
-					<strong>
-					<ul>
-						<li> <a href="http://www.awc.cse.psu.edu">Association of Women in Computing</a> (AWC, Penn State) - Co-Founder (2012-present)</li>
-						<li><a href="http://acm.cse.psu.edu/"> Association for Computing Machinery</a>  (ACM, Penn State Chapter) - Member (2012-present)</li>
-						<li><a href="http://www.thon.org">Penn State Dance Marathon</a> </li>
-					</strong>
+						
 						<ul>
-							<li><a href="http://www.thon.org/Students/GetInvolved/ApplyToBeACaptain">Technology Captain</a> - THINK Developer (2014-2015)</li>
-							<li> Operations Committee Member (2013-2014) </li>
-							<li> Rules and Regulations Committee Member (2011-2012) </li>
-						</ul>
-					</ul>
+							<strong>
+								<li> <a href="http://www.awc.cse.psu.edu">Association of Women in Computing</a> (AWC, Penn State) - Co-Founder (2012-present)</li>
+								<li><a href="http://acm.cse.psu.edu/"> Association for Computing Machinery</a>  (ACM, Penn State Chapter) - Member (2012-present)</li>
+								<li><a href="http://www.gracehopper.org">Grace Hopper Celebration</a> - Student Attendee (2013, 2014)</li>
+								<li><a href="http://www.thon.org">Penn State Dance Marathon</a> </li>
+							</strong>
+							<ul>
+								<li><a href="http://www.thon.org/Students/GetInvolved/ApplyToBeACaptain">Technology Captain</a> - THINK Developer (2014-2015)</li>
+								<li> Operations Committee Member (2013-2014) </li>
+								<li> Rules and Regulations Committee Member (2011-2012) </li>
+							</ul>	
+						</ul>				
 					</p>
 				</div>
 
@@ -125,11 +136,11 @@
 				<p><img src="img/kelly.jpg"></p>
 				<h2>Kelly Hutchison</h2>
 				<p> <a href="/files/Hutchison_PSU_cmpsc_2015_Resume.pdf">Link to Resume</a> </p>
-			<!--	<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
+				<!--	<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
 			</div>
-		</div>	
-			<?php include("includes/footer.includes.php") ?>
-		</div> 
-<!-- /container -->
+		</div>	 
+		<?php include("includes/footer.includes.php") ?>
+	</div> 
+	<!-- /container -->
 </body>
 </html>
